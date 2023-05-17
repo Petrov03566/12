@@ -1,0 +1,12 @@
+QMainWindow{
+    color:coral
+    background-color cadetblue
+
+}
+.QLabel{
+    color:rgb(188, 117, 17);
+    background-color: chocolate;
+}
+.QPushButton{
+    color: aqua;
+}
